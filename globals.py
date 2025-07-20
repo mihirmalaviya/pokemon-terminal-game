@@ -1,5 +1,4 @@
-
-TYPEDELAY = .05
+TYPEDELAY = 0.05
 TURNDELAY = 1
 
 godmode = False
