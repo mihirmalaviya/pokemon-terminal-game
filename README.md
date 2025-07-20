@@ -1,11 +1,12 @@
-Hi this is my game!  
+Hi this is my game!
 
-run this in ur terminal once u got it: 
+run this in ur terminal once u got it:
 
 (linux)
 ```bash
 
-source venv/bin/activate  
-pip3 install -r requirements.txt  
+python3 -m venv venv
+source venv/bin/activate
+pip3 install -r requirements.txt
 
 ```
